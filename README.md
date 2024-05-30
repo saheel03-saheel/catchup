@@ -1,6 +1,6 @@
 # Catchup
 <img src="chatapp/screenshots/Screenshot 2024-05-30 032644.png" width="500" alt="Screenshot 1" >
-Nexus Chat is a web-based chat application developed using JavaScript for client-side functionality and MySQL and PHP for server-side operations.
+CatchUp is a web-based chat application developed using JavaScript for client-side functionality and MySQL and PHP for server-side operations.
 
 ## Features
 
@@ -11,19 +11,18 @@ Nexus Chat is a web-based chat application developed using JavaScript for client
 - Responsive design for seamless usage across devices
 
 ## Screenshots
+<img src="chatapp/screenshots/Screenshot 2024-05-30 032145.png" width="500" alt="Screenshot 1" >
+<img src="chatapp/screenshots/Screenshot 2024-05-30 032347.png" width="500" alt="Screenshot 1" >
+<img src="chatapp/screenshots/Screenshot 2024-05-30 032644.png" width="500" alt="Screenshot 1" >
+<img src="chatapp/screenshots/Screenshot 2024-05-30 032644.png" width="500" alt="Screenshot 1" >
 
-![Screenshot 1](screenshots/1.png)
-![Screenshot 2](screenshots/2.png)
-![Screenshot 3](screenshots/3.png)
-![Screenshot 3](screenshots/4.png)
-![Screenshot 3](screenshots/5.png)
 
 a
 ## Installation
 cvbvg
 To run the application locally:
 
-1. Clone this repository: `git clone https://github.com/duskdev17/nexus-chat.git`
+1. Clone this repository: `https://github.com/saheel03-saheel/catchup.git`
 
 2. Set up your MySQL database and update the connection details in `config.php`.
 
