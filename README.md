@@ -13,7 +13,7 @@ CatchUp is a web-based chat application developed using JavaScript for client-si
 ## Screenshots
 <img src="chatapp/screenshots/Screenshot 2024-05-30 032145.png" width="500" alt="Screenshot 1" >
 <img src="chatapp/screenshots/Screenshot 2024-05-30 032347.png" width="500" alt="Screenshot 1" >
-<img src="chatapp/screenshots/Screenshot 2024-05-30 032644.png" width="500" alt="Screenshot 1" >
+<img src="chatapp/screenshots/Screenshot 2024-05-30 032524.png" width="500" alt="Screenshot 1" >
 <img src="chatapp/screenshots/Screenshot 2024-05-30 032644.png" width="500" alt="Screenshot 1" >
 
 
