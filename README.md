@@ -17,7 +17,7 @@ CatchUp is a web-based chat application developed using JavaScript for client-si
 <img src="chatapp/screenshots/Screenshot 2024-05-30 032644.png" width="500" alt="Screenshot 1" >
 
 
-a
+
 ## Installation
 cvbvg
 To run the application locally:
